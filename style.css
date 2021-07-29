@@ -2,11 +2,14 @@
 .orange{
     color: orange;
 }
-
+/* header  */
 .header-bg{
     background-color: #264653;
 }
-
+.my_button{
+    background-color: #e76f51;
+    padding: 7px 30px;
+}
 /* feature bikes start */
 .img .img2 img{
     width: 85%;    
